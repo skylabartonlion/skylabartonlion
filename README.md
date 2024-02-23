@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/skyla-barton-62bb70164/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Skyla, an <a href="https://www.linkedin.com/in/skyla-barton-62bb70164/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
